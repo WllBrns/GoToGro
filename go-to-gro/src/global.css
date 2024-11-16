@@ -1,0 +1,20 @@
+:root {
+    --fontsize-h1: 3rem;
+    --fontsize-h2: 2.25rem;
+    --fontsize-h3: 1.5rem;
+    --fontsize-regular: 1rem;
+
+    --color-black: #0C0E0F;
+    --color-white: #FFFFFF;
+    --color-disabled: #ABB6BA;
+    --color-placeholder: #808080;
+    --color-error: #E74C3C;
+    --color-primary: #A0FF47;
+    --color-primary-2: #75BD00;
+    --color-primary-3: #395C00;
+    --color-secondary: #141819;
+    --color-secondary-2: #21292C;
+    --color-secondary-3: #141819;
+    --color-warning: #F6CD00;
+}
+
