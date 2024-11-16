@@ -34,4 +34,8 @@ body {
     font-size: var(--fontsize-regular);
     color: var(--color-white);
     font-family: Inter;
+    background-color: var(--color-black);
+
 }
+
+

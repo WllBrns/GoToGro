@@ -1,0 +1,39 @@
+nav {
+    max-width: 13.5rem;
+    font-size: 1.125rem;
+    height: 100vh;
+    background-color: var(--color-secondary);
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;
+    margin:0px;
+}
+
+nav a {
+    display: flex;
+    align-items: center;
+    color: var(--color-white);
+    text-decoration: none;
+    gap: 16px;
+    padding: 10px 24px;
+
+    border-left-color: #FFFFFF00;
+    border-left-width: 5px;
+    border-left-style: solid;
+}
+
+nav a:hover {
+    border-left-color: var(--color-primary);
+    border-left-width: 5px;
+    border-left-style: solid;
+
+}
+
+
+.icon {
+    width: 2rem;
+    height: 2rem;
+
+}
