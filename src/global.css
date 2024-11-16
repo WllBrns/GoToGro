@@ -18,3 +18,20 @@
     --color-warning: #F6CD00;
 }
 
+h1 {
+    font-size: var(--fontsize-h1);
+}
+
+h2 {
+    font-size: var(--fontsize-h2);
+}
+
+h3 {
+    font-size: var(--fontsize-h3);
+}
+
+body {
+    font-size: var(--fontsize-regular);
+    color: var(--color-white);
+    font-family: Inter;
+}

@@ -1,0 +1,15 @@
+button {
+    color: var(--color-white);
+    padding: .75em 1.5em;
+    background-color: var(--color-primary-2);
+    font-family: inherit;
+    border-radius: .4375em;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--color-primary-3);
+    
+}
