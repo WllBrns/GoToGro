@@ -5,6 +5,10 @@ nav {
     background-color: var(--color-secondary);
 }
 
+nav * {
+    background-color: var(--color-secondary);
+}
+
 nav ul {
     list-style-type: none;
     padding: 0px;
